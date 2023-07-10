@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dhiman</h1>
 <h3 align="center">Passionate coder and programming enthusiast, constantly exploring the realms of code to bring ideas to life. Embracing challenges with a keyboard in hand, crafting elegant solutions one line at a time.</h3>
-<img align="right" width=400 alt="coding" src="![image](https://github.com/hmnshudhmndotexe/hmnshudhmndotexe/assets/139051316/c29ed938-ce23-4188-91db-a7c5778ab56a)
-">
+<img align="right" width=400 alt="coding" src="https://github.com/hmnshudhmndotexe/hmnshudhmndotexe/assets/139051316/c29ed938-ce23-4188-91db-a7c5778ab56a">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmnshudhmndotexe&label=Profile%20views&color=0e75b6&style=flat" alt="hmnshudhmndotexe" /> </p>
 
 - 🌱 I’m currently learning **Python**
